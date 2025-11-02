@@ -14,3 +14,7 @@ Built with HTML, CSS, and JavaScript, it combines a clean design with an intuiti
 - HTML5 – Structure and layout
 - CSS3 – Styling and color palette
 - JavaScript – Core logic and user interaction
+
+# Live Demo
+
+https://sgk-pennywise.netlify.app/
